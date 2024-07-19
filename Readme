@@ -193,28 +193,5 @@ FROM CUSTOMER_WITH_COUNTRY
 WHERE ROW_NUM = 1;
 ```
 
-## Project Structure
 
-The project repository is structured as follows:
 
-```
-├── data/                  # Directory containing the dataset
-├── queries/               # Directory containing SQL query files
-└── README.md              # Project README file
-```
-
-## Usage
-
-1. Clone the repository:
-
-   ```
-   git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
-   ```
-
-2. Import the dataset into your SQL database management system.
-
-3. Run SQL queries located in the `queries/` directory against the database to perform data analysis and generate insights.
-
-## Contributing
-
-Contributions to this project are welcome. If you have suggestions for improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
